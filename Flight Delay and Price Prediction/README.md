@@ -22,5 +22,19 @@ Streamlit for interactive dashboards
 
 Data visualization libraries: Matplotlib, Seaborn, Plotly
 
+📊 Datasets & Files
+
+1.airlines.csv – https://drive.google.com/file/d/1_RExCoYkqZN9L5fPWXNiIrr96B1XJk5l/view?usp=sharing
+
+2.airports.csv – https://drive.google.com/file/d/1mXkwTP8ETNCZ4zGZB5y9x9N57qgih4D7/view?usp=sharing
+
+3.flights.csv – https://drive.google.com/file/d/1EECrTKunnaA4yH_piCpWlhqMbvuvcCDC/view?usp=sharing
+
+Additional Files:
+
+app.py → Streamlit app for predictions - https://drive.google.com/file/d/1sQcDNhoV7APxkwQbGvZEOA1DFjtBzAX3/view?usp=sharing
+
+model.pkl → Saved machine learning model - https://drive.google.com/file/d/1GbH3HxfFDumYRt6e8dd-FOj_GjTuuKZQ/view?usp=sharing
+
 Outcome / Use Case:
 Provides actionable insights for airlines and passengers to anticipate flight delays. Also showcases skills in AI, business analytics, and user-facing dashboard development
