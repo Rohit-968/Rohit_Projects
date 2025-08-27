@@ -23,6 +23,7 @@ Customer loyalty strategies for top segments.
 📂 Datasets
 
 This project uses multiple datasets to analyze retail customer transactions and build the dashboard. You can access them via the links below:
+
 aisles.csv – https://drive.google.com/file/d/1AIG70G0CAp8_Lfwb2pXam3qRt7sflw6l/view?usp=sharing
 departments.csv – https://drive.google.com/file/d/1zRi8pMgif0Tt-vRG4QT8H2ChSFEPnyUe/view?usp=sharing
 order_products_prior.csv – https://drive.google.com/file/d/1j6HodLJPPB8bkUh8b9KihKBNGsKa1mXh/view?usp=sharing
