@@ -34,4 +34,4 @@ app.py → Streamlit app for predictions - https://drive.google.com/file/d/1sQcD
 
 model.pkl → Saved machine learning model - https://drive.google.com/file/d/1GbH3HxfFDumYRt6e8dd-FOj_GjTuuKZQ/view?usp=sharing
 
-Outcome / Use Case: Provides actionable insights for airlines and passengers to anticipate flight delays. Also showcases skills in AI, business analytics, and user-facing dashboard development
+## Outcome / Use Case: Provides actionable insights for airlines and passengers to anticipate flight delays. Also showcases skills in AI, business analytics, and user-facing dashboard development
