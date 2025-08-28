@@ -1,6 +1,8 @@
-# This project focuses on analyzing retail customer transaction data to generate actionable business insights and improve decision-making. The project is structured as a full pipeline, combining data processing, visualization, and interpretation.
+# Retail Sales Analysis using Instacart datasets
 
-## Objective: Analyze historical retail transaction data to identify customer behavior patterns. Generate insights to assist business strategies, marketing campaigns, and inventory management. Visualize key metrics through an interactive dashboard.
+### This project focuses on analyzing retail customer transaction data to generate actionable business insights and improve decision-making. The project is structured as a full pipeline, combining data processing, visualization, and interpretation.
+
+### Objective: Analyze historical retail transaction data to identify customer behavior patterns. Generate insights to assist business strategies, marketing campaigns, and inventory management. Visualize key metrics through an interactive dashboard.
 
 ### Key Components:
 
