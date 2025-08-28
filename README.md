@@ -1,8 +1,8 @@
-This repository showcases my work in Data Science, AI, SQL, and Data Engineering. It includes hands-on projects, datasets,research paper currently going on and internship experience that highlight my skills across multiple domains.
+## This repository showcases my work in Data Science, AI, SQL, and Data Engineering. It includes hands-on projects, datasets,research paper currently going on and internship experience that highlight my skills across multiple domains.
 
-📂 Contents
+### 📂 Contents
 
-SQL & Databases
+*** SQL & Databases ***
 
 AI & Machine Learning
 
@@ -10,8 +10,8 @@ Data Science & Engineering
 
 Internship Experience & Certificates
 
-⚡ Tech Stack
+### ⚡ Tech Stack
 
-Python, SQL, Pandas, NumPy, Scikit-Learn, Matplotlib, Streamlit, Power BI
+Python, SQL, Pandas, NumPy, Scikit-Learn, Matplotlib, Streamlit, Power BI, Java, c++
 
-✨ A consolidated portfolio of my projects, research, and practical experience in data.
+### ✨ A consolidated portfolio of my projects, research, and practical experience in data.
