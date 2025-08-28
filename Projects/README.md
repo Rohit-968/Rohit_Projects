@@ -42,7 +42,7 @@ They highlight my skills across **AI, Data Science & Engineering (DSE), SQL, and
 - **Tech:** Python, TensorFlow/PyTorch, Scikit-learn  
 ---------------------------------------------------------------------------
 
- ## 🌱 Current Focus  
+ ##  Current Focus  
 - Expanding expertise in **AI/ML/DL & Business Analytics**  
 - Preparing for **international internship opportunities (2026)**  
 - Publishing **research papers in Data Science**  
