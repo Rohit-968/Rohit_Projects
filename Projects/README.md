@@ -7,7 +7,7 @@ They highlight my skills across **AI, Data Science & Engineering (DSE), SQL, and
 
 ## ✅ Completed Projects  
 
-### 1. Flight Delay Prediction (AI Internship)  
+### 1. Flight Delay and Price Prediction 
 - Developed a **machine learning model** to predict flight delays based on time and schedule  
 - Built an **interactive Streamlit UI** for visualization and user interaction  
 - **Tech:** Python, Scikit-learn, Streamlit  
