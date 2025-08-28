@@ -2,13 +2,13 @@
 
 ### 📂 Contents
 
-*** SQL & Databases ***
+SQL & Databases 
 
-AI & Machine Learning
+2.AI & Machine Learning
 
-Data Science & Engineering
+3.Data Science & Engineering
 
-Internship Experience & Certificates
+4.Internship Experience & Certificates
 
 ### ⚡ Tech Stack
 
