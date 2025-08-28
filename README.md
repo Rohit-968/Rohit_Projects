@@ -1,4 +1,4 @@
-This repository showcases my work in Data Science, AI, SQL, and Data Engineering. It includes hands-on projects, datasets, and internship experience that highlight my skills across multiple domains.
+This repository showcases my work in Data Science, AI, SQL, and Data Engineering. It includes hands-on projects, datasets,research paper currently going on and internship experience that highlight my skills across multiple domains.
 
 📂 Contents
 
