@@ -40,11 +40,11 @@ model.pkl → Saved machine learning model - https://drive.google.com/file/d/1Gb
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Sample Outputs
 
-<img width="488" height="270" alt="image" src="https://github.com/user-attachments/assets/81329b73-530a-4dc2-b983-b6f007f2dfe0" />
+<img width="468" height="290" alt="image" src="https://github.com/user-attachments/assets/81329b73-530a-4dc2-b983-b6f007f2dfe0" />
 
 <img width="488" height="270" alt="image" src="https://github.com/user-attachments/assets/378d0896-9e4f-4335-b45e-321525fe3a6b" />
 
-<img width="642" height="401" alt="image" src="https://github.com/user-attachments/assets/f6ed95a1-0457-4711-ae40-116962d4ef30" />
+<img width="542" height="401" alt="image" src="https://github.com/user-attachments/assets/f6ed95a1-0457-4711-ae40-116962d4ef30" />
 
 <img width="450" height="380" alt="image" src="https://github.com/user-attachments/assets/be1eaef1-6cf5-4e9b-81cd-8653aabef30b" />
 
