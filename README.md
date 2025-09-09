@@ -2,7 +2,7 @@
 
 ### 📂 Contents
 
-SQL & Databases 
+1.SQL & Databases 
 
 2.AI & Machine Learning
 
