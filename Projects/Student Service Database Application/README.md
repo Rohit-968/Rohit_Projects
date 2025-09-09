@@ -19,7 +19,7 @@ The complete project documentation (ER diagrams, relational schema, SQL queries,
 
 <img width="975" height="784" alt="image" src="https://github.com/user-attachments/assets/f8c212ed-65d8-4211-a098-13adb779ebe5" />
 
-<img width="1001" height="1124" alt="image" src="https://github.com/user-attachments/assets/fe455496-b241-4523-8165-f35dc6694a3a" />
+<img width="719" height="286" alt="image" src="https://github.com/user-attachments/assets/f1f51721-ba8c-4b00-9a75-36c7838a02cf" />
 
 
 
