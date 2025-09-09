@@ -13,9 +13,13 @@ The complete project documentation (ER diagrams, relational schema, SQL queries,
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Diagrams
+## Sample Outputs
 
 <img width="975" height="689" alt="image" src="https://github.com/user-attachments/assets/25ce5a84-014c-446d-b8aa-5afd8da8eedd" />
+
+<img width="975" height="784" alt="image" src="https://github.com/user-attachments/assets/f8c212ed-65d8-4211-a098-13adb779ebe5" />
+
+<img width="1001" height="1124" alt="image" src="https://github.com/user-attachments/assets/fe455496-b241-4523-8165-f35dc6694a3a" />
 
 
 
