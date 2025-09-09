@@ -34,7 +34,7 @@ This project uses multiple datasets to analyze retail customer transactions and 
 
 <img width="600" height="452" alt="image" src="https://github.com/user-attachments/assets/17949a41-173c-4d41-878c-7eaee0d7ae07" />
 
-<img width="410" height="409" alt="image" src="https://github.com/user-attachments/assets/acb725bb-0554-4516-9c0d-1c33e6fd7d16" />
+<img width="410" height="457" alt="image" src="https://github.com/user-attachments/assets/acb725bb-0554-4516-9c0d-1c33e6fd7d16" />
 
 <img width="579" height="457" alt="image" src="https://github.com/user-attachments/assets/5bd6f8be-c936-4634-a81d-a39d86c9f650" />
 
